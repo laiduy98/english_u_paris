@@ -2,7 +2,7 @@
 
 - LAI Khang Duy
 - Zilu YANG
-- Masha
+- Mariia Klimina
 - Kenza BENBOUABDELLAH
 - Nadia KACEM CHAOUCHE
 - Wessal HAMZA

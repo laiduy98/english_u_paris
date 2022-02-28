@@ -8,15 +8,15 @@ lang: en-US
 #     - left=20mm
 #     - right=20mm
 #     - heightrounded
-# mainfont: "NewComputerModern"
-# sansfont: "NewComputerModern"
-# monofont: "JetBrains Mono"
+mainfont: "Helvetica"
+sansfont: "Helvetica"
+monofont: "Helvetica"
 documentclass: article
 title: Jury report
-# author: LAI Khang Duy - Lylia DJALI
+
 author: \textbf{LAI Khang Duy} \newline
         \textbf{Zilu YANG} \newline
-        \textbf{Masha} \newline
+        \textbf{Mariia KLIMINA} \newline
         \textbf{Kenza BENBOUABDELLAH} \newline
         \textbf{Nadia KACEM CHAOUCHE} \newline
         \textbf{Wessal HAMZA} \newline
@@ -28,7 +28,7 @@ footer-left: Université de Paris
 date: 28-02-2022
 titlepage: true
 toc-own-page: true
-lof: true
+# lof: true
 # lof-own-page: true
 titlepage-logo: assets/images/uparis.png
 header-includes: 
